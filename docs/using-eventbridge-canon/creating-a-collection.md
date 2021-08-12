@@ -4,7 +4,7 @@ title: Creating an Collection
 sidebar_label: Creating a Collection
 ---
 
-If you want to save the Events you publish, you have to store them witin a collection.
+If you want to save the Events you publish, you have to store them within a collection.
 
 ### What is a collection
 
