@@ -4,6 +4,7 @@
     "Getting Started": ["getting-started/installation", "getting-started/setup", "getting-started/running-eventbridge-canon"],
     "Using EventBridge Canon": ["using-eventbridge-canon/creating-a-collection", "using-eventbridge-canon/using-the-event-viewer", "using-eventbridge-canon/updating-events-and-sources", "using-eventbridge-canon/clearing-data"],
     "Other Projects": ["other/eventbridge-atlas", "other/awsicons", "other/mockit"],
-    "Contributing": ["contributing/contributing"]
+    "Contributing": ["contributing/contributing"],
+    "Sponsor": ["sponsoring/sponsor-the-project"]
   }
 }
